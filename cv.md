@@ -15,3 +15,12 @@ Recently completed the "freeCodeCamp" course - Responsive Web Design.
 Any field of development is interesting for me.
 <br>
 <br>
+
+###### Skills:
+  - `HTML`
+  - `CSS`
+  - `JQuery`
+  - `GIT`
+
+<br>
+<br>
