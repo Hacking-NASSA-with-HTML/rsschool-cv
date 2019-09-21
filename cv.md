@@ -38,3 +38,8 @@ Any field of development is interesting for me.
 [https://github.com/vyacheslavv44/App-to-test-dead-pixels-of-your-monitor](https://github.com/vyacheslavv44/App-to-test-dead-pixels-of-your-monitor)
 <br>
 <br>
+
+###### Education:
+[freeCodeCamp's Developer Certification](https://www.freecodecamp.org/certification/vyacheslav_plekhanov/responsive-web-design)
+<br>
+<br>
