@@ -43,3 +43,15 @@ Any field of development is interesting for me.
 [freeCodeCamp's Developer Certification](https://www.freecodecamp.org/certification/vyacheslav_plekhanov/responsive-web-design)
 <br>
 <br>
+
+###### English level:
+A2+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
