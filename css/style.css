@@ -51,6 +51,9 @@ h6 {
 
 .little-section {
   margin: 80px;
+  padding-left: 10%;
+  padding-right: 10%;
+  overflow-wrap: break-word;
 }
 
 .geek {
