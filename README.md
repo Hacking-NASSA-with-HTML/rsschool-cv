@@ -1,1 +1,1 @@
-https://vyacheslavv44.github.io/rsschool-cv/cv
+https://Hacking-NASSA-with-HTML.github.io/rsschool-cv/cv
